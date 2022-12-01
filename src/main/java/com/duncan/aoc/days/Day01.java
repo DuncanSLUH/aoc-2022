@@ -1,4 +1,6 @@
-package com.duncan.aoc;
+package com.duncan.aoc.days;
+
+import com.duncan.aoc.Solution;
 
 import java.util.ArrayList;
 import java.util.Collections;
